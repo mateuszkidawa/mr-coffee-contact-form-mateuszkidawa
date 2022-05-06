@@ -1,18 +1,24 @@
 <h2 align="center">Contact form</h2>
 <h4 align="center">Cafe webpage</h4>
 
-## Project Overview
+## Project Overview 🔍
 
-Coffee shop page with contact form.
+Coffee shop page with contact form.  
 JavaScript validation was used for the contact form data.
 
 ## Tech/framework used 🔧
 
 | Tech       |
 | ---------- |
-| EHTML      |
+| HTML       |
 | CSS        |
 | JavaScript |
+
+## Screenshots 📺
+
+<p align="center">
+    <img src="./assets/contactForm.png" alt="Screenshot-contactForm">
+</p>
 
 ## Available script
 
